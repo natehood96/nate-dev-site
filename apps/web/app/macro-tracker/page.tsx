@@ -1,8 +1,8 @@
 import { MacroDashboard } from '@nate/macro-tracker';
 
 export const metadata = {
-  title: 'Macro Tracker | Nate',
-  description: 'Track your daily nutrition and hit your macro goals.',
+  title: 'Macro Tracker — Coming Soon | Nate',
+  description: 'A beautiful, intuitive way to track your nutrition. Mobile app coming soon.',
 };
 
 export default function MacroTrackerPage() {
